@@ -1,5 +1,9 @@
 # 📊 Monitor de Preços de Produto
 
+## 🎬 Demonstração
+
+![Demonstração do Projeto](./GIF_Monitor_Precos1.gif)
+
 Projeto desenvolvido para monitorar automaticamente o preço de um produto e gerar histórico de variações ao longo do tempo.
 
 ---
